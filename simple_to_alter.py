@@ -105,9 +105,9 @@ if __name__ == '__main__':
 
     flag = 0
 
-    # client = pymongo.MongoClient('192.168.1.36', 27017)
-    # db1 = client.res_kb
-    # col1 = db1.res_kb_leader
+    # client = pymongo.MongoClient('..', ..)
+    # db1 = client...
+    # col1 = db1...
 
 
     with open('企业简称名单.txt', 'r', encoding='utf-8') as f:
